@@ -1,0 +1,14 @@
+{
+  "name": "Stream it Call Box",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Bus Stop Call Box",
+  "author": "Benjamin Torres",
+  "dependencies": {
+    "coffee-script": "^1.12.7",
+    "connect": "^3.6.6",
+    "ejs": "^2.6.1",
+    "express": "4.x",
+    "express.io": "^1.1.13"
+  }
+}
